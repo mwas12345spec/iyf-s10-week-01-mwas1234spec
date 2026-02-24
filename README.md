@@ -1,1 +1,65 @@
-# iyf-s10-week-01-mwas1234spec-portfolio
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mark Mwangi | Home</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<!-- Header and Navigation -->
+<header>
+    <nav>
+        <h1 class="logo">Mark Mwangi</h1>
+        <ul>
+            <li><a href="index.html" class="active">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<!-- Hero Section -->
+<main>
+    <section class="hero">
+         <h2>Hello, I'm Mark Mwangi</h2>
+         <p>A passionate web developer learning HTML5, CSS, and modern web technologies.</p>
+         <a href="https://github.com/mwas12345spec" target="_blank" class="btn">
+          Visit My GitHub
+         </a>
+        
+    </section>
+
+    <!-- About Section -->
+    <section class="about">
+        <h2>About Me</h2>
+        <p>
+            My name is Mark Mwangi, an aspiring software developer with a strong passion 
+            for building modern, responsive websites. I enjoy solving problems 
+            and turning ideas into functional digital experiences.
+        </p>
+        <p>
+            I am currently developing my skills in HTML5 semantic markup, CSS styling, 
+            and version control using Git & GitHub. My goal is to become a professional 
+            full-stack developer and contribute to impactful technology projects.
+        </p>
+
+        <h3>My Skills</h3>
+        <ul>
+            <li>HTML5 Semantic Markup</li>
+            <li>CSS3 Styling</li>
+            <li>Git & GitHub</li>
+            <li>Responsive Web Design</li>
+        </ul>
+    </section>
+</main>
+
+<!-- Footer -->
+<footer>
+    <p>© 2026 Mark Mwangi</p>
+</footer>
+
+</body>
+</html>
