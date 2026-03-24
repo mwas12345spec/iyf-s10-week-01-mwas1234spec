@@ -26,8 +26,5 @@ the project   is a portfolio as a programmer
 ## Challenges Faced
  the chaalenge is that when i deploy it using github   it gave a response of page not found
 
-## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
-
 ## Live Demo (if deployed)
-[View Live Demo](https://https://mwas12345spec.github.io/mark12/)
+[View Live Demo](https://https:// https://https://mwas12345spec.github.io/iyf-s10-week-01-mwas12345spec/)
