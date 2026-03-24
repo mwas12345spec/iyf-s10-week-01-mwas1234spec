@@ -2,7 +2,7 @@
 
 ## Author
 - **Name:** Mark Mwangi
-- **GitHub:** [@mwwas12345spec](https://github.com/mwas12345spec)
+- **GitHub:** [@mwas12345spec](https://github.com/mwas12345spec)
 - **Date:** 02 /11/2026
 
 ## Project Description
